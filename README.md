@@ -1,1 +1,1 @@
-# Snake3000deluxe
+# SNAKE
